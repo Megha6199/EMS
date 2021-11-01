@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Administration",
+    "manager_id": 100,
+    "headquarter_address_id": 3
+  },
+  {
+    "id": 2,
+    "name": "IT",
+    "manager_id": 103,
+    "headquarter_address_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Finance",
+    "manager_id": 104,
+    "headquarter_address_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Human Resources",
+    "manager_id": 101,
+    "headquarter_address_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Marketing",
+    "manager_id": 108,
+    "headquarter_address_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Sales",
+    "manager_id": 110,
+    "headquarter_address_id": 3
+  }
+]

@@ -1,0 +1,44 @@
+"------------FULL DATA WITH ADDRESS AS A STRING, DEPT_name & MANAGER_NAME-----------"
+100,Steven King,80000.00,2011 Interiors BlvdSan Francisco,Administration,
+101,Jennifer King,52000.00,2011 Interiors BlvdSan Francisco,Administration,Steven King
+102,Bob Austin,40000.00,2011 Interiors BlvdSan Francisco,Administration,Jennifer King
+103,Phoebe Khoo,65000.00,147 Spadina AveHobokon,IT,Steven King
+104,Matthew Weiss,28000.00,2014 Jabberwocky RdSouth Lake,Finance,Steven King
+105,Shelli Baida,35000.00,147 Spadina AveHobokon,IT,Matthew Weiss
+106,Jose Manuel Urman,45000.00,2011 Interiors BlvdSan Francisco,Administration,Jennifer King
+107,Karen Colmenares,65000.00,2014 Jabberwocky RdSouth Lake,Finance,Phoebe Khoo
+108,Nancy Greenberg,38000.00,147 Spadina AveHobokon,IT,Steven King
+109,Den Raphaely,39000.00,2011 Interiors BlvdSan Francisco,Sales,Shanta Vollman
+110,Shanta Vollman,50000.00,2011 Interiors BlvdSan Francisco,Sales,Steven King
+111,John Russell,34000.00,2014 Jabberwocky RdSouth Lake,Finance,Phoebe Khoo
+112,Nancie Patel,55000.00,2014 Jabberwocky RdSouth Lake,Finance,Matthew Weiss
+113,Jack Livingston,47000.00,147 Spadina AveHobokon,Marketing,Nancy Greenberg
+114,Guy Himuro,39000.00,2011 Interiors BlvdSan Francisco,Sales,Shanta Vollman
+                   	
+-----------HIGHEST PAID SALARIES--------
+100,Steven King,80000.00
+103,Phoebe Khoo,65000.00
+107,Karen Colmenares,65000.00
+112,Nancie Patel,55000.00
+101,Jennifer King,52000.00
+                 	
+---------LOWEST PAID SALARIES--------- 
+104,Matthew Weiss,28000.00
+111,John Russell,34000.00
+105,Shelli Baida,35000.00
+108,Nancy Greenberg,38000.00
+109,Den Raphaely,39000.00
+                  	
+---------TOTAL SALARY FOR DEPT. SORTED BY HIGHEST---------
+1,217000.00
+3,182000.00
+2,138000.00
+6,128000.00
+5,47000.00
+                   	
+---------EMPLOYEE THAT LIVES IN TEXAS----------
+Matthew Weiss,Texas
+Shelli Baida,Texas
+Den Raphaely,Texas
+Jack Livingston,Texas
+                    	

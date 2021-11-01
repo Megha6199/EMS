@@ -1,0 +1,4 @@
+id,name,age,salary,department_id,address_id,manager_id
+116,Hermann Baer,25,41000.00,02,3,103
+117,Pat Fay,31,39000.00,06,2,108
+118,Susan Mavris,28,55000.00,03,1,104
